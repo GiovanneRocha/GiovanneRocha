@@ -1,8 +1,14 @@
 <br clear="both">
-<h1 align="left">Ola, Eu sou o Giovanne Rocha</h1>
+<h1 align="left">Ola! Eu sou o Giovanne Rocha</h1>
 
 <br clear="both">
-<p align="left">Estudante de Gestão de Tecnologia da Informação GTI na Fatec Campinas e aprendiz na Honda LSL. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Sou fascinado por aprender e aplicar esses conhecimentos para criar soluções inovadoras. Atualmente busco uma oportunidade de estágio na área de TI.</p>
+<p align="left">
+Meu nome é Giovanne Rocha Vieira, sou estudante do curso de Gestão da Tecnologia da Informação na Faculdade de Tecnologia de Campinas (Fatec Campinas) e atualmente exerço a função de Jovem Aprendiz na empresa Honda LSL Transportes. Tenho profundo interesse na área de Tecnologia da Informação e estou constantemente em busca de novos conhecimentos e experiências que contribuam para minha formação pessoal, acadêmica e profissional.
+
+Ao longo da minha trajetória, venho me dedicando ao desenvolvimento de competências técnicas e comportamentais por meio de cursos, projetos práticos, trabalhos voluntários e atuação como freelancer em manutenção de hardware. Essa vivência me proporcionou contato direto com diagnóstico, reparo, atualização e suporte técnico em equipamentos diversos, além de fortalecer minha capacidade de análise, resolução de problemas e atendimento ao cliente.
+
+Atualmente, procuro uma oportunidade de estágio na área de TI que me permita ampliar minha experiência prática, contribuir com meus conhecimentos e crescer ao lado de profissionais da área. Acredito no poder da tecnologia como ferramenta de transformação e estou comprometido em seguir evoluindo de forma ética, colaborativa e dedicada.
+</p>
 
 <br clear="both">
 <h3 align="left">My Stack</h3>
