@@ -33,6 +33,25 @@
 - 🌱 Sempre aprendendo e explorando novas tecnologias
 - 🎯 Focado em desenvolvimento Full Stack e soluções inovadoras
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GiovanneRocha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=GiovanneRocha&locale=pt-br&mode=daily&theme=vision-friendly-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GiovanneRocha&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=vision-friendly-dark&hide_border=false&order=2" height="150" alt="languages graph" />
+</div>
+
+## 🐍 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiovanneRocha/GiovanneRocha/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiovanneRocha/GiovanneRocha/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GiovanneRocha/GiovanneRocha/output/pacman-contribution-graph.svg" width="100%">
+</picture>
+
 ## 🛠️ Conecte-se Comigo
 
 <div align="left">
@@ -81,25 +100,6 @@
 </div>
 
 <br clear="both">
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiovanneRocha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=GiovanneRocha&locale=pt-br&mode=daily&theme=vision-friendly-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GiovanneRocha&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=vision-friendly-dark&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
-
-## 🐍 Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiovanneRocha/GiovanneRocha/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiovanneRocha/GiovanneRocha/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GiovanneRocha/GiovanneRocha/output/pacman-contribution-graph.svg" width="100%">
-</picture>
 
 ---
 
