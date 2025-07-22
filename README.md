@@ -1,6 +1,6 @@
 <br clear="both">
 <h1 align="left">Ola! Eu sou o Giovanne Rocha</h1>
-
+---
 <br clear="both">
 <p align="left">
 Meu nome é Giovanne Rocha Vieira, sou estudante do curso de Gestão da Tecnologia da Informação na Faculdade de Tecnologia de Campinas (Fatec Campinas) e atualmente exerço a função de Jovem Aprendiz na empresa Honda LSL Transportes. Tenho profundo interesse na área de Tecnologia da Informação e estou constantemente em busca de novos conhecimentos e experiências que contribuam para minha formação pessoal, acadêmica e profissional.
