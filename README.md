@@ -1,6 +1,6 @@
 <br clear="both">
 <h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=0000ff&vCenter=true&width=435&lines=Olá!+Eu+sou+o+Giovanne+Rocha;Desenvolvedor+Full+Stack;Estudante+de+TI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=334f9f&vCenter=true&width=435&lines=Olá!+Eu+sou+Giovanne+Rocha;Desenvolvedor+Full+Stack;Estudante+de+TI" alt="Typing SVG" />
 </h1>
 
 <br clear="both">
