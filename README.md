@@ -56,6 +56,8 @@
 - 📊 **Análise de Dados**: Dashboards, automações com Pandas & Excel, integração de APIs.
 - 🎨 **UX/UI Design**: Prototipação de interfaces no Figma e ferramentas gráficas.
 
+<br clear="both">
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -75,7 +77,7 @@
 </picture>
 
 
-
+<br clear="both">
 <br clear="both">
 
 ## 💻 My Tech Stack
