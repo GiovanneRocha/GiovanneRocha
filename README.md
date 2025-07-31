@@ -25,33 +25,6 @@
 
 <br clear="both">
 
-## 🚀 Sobre Mim
-
-- 🎓 **Estudante** de Gestão da Tecnologia da Informação - Fatec Campinas
-- 💼 **Estagiário de TI** na Vllares Metals (Setor de Controladoria)
-- 🔧 **Freelancer** em manutenção de hardware
-- 🌱 Sempre aprendendo e explorando novas tecnologias
-- 🎯 Focado em desenvolvimento Full Stack e soluções inovadoras
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiovanneRocha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=GiovanneRocha&locale=pt-br&mode=daily&theme=vision-friendly-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GiovanneRocha&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=vision-friendly-dark&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
-
-## 🐍 Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiovanneRocha/GiovanneRocha/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiovanneRocha/GiovanneRocha/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GiovanneRocha/GiovanneRocha/output/pacman-contribution-graph.svg" width="100%">
-</picture>
-
 ## 🛠️ Conecte-se Comigo
 
 <div align="left">
@@ -66,37 +39,87 @@
   </a>
 </div>
 
+## 🚀 Sobre Mim
+
+- 🎓 **Estudante** de Gestão da Tecnologia da Informação – Fatec Campinas
+- 💼 **Estagiário de TI** na Vllares Metals (Controladoria)
+- 🔧 **Freelancer** em manutenção de hardware e suporte técnico
+- 🌱 Sempre aprendendo e explorando novas tecnologias e metodologias
+- 🧠 Apaixonado por automação, inteligência artificial e dados
+- 💡 Entusiasta de projetos open source e inovação
+- 🎯 Focado em desenvolvimento Full Stack, soluções web, APIs e bots
+
+## ⚡️ Novas Funções e Diferenciais
+
+- 🤖 **Desenvolvimento de Bots**: Criação e manutenção de bots para automação de tarefas no Discord, Telegram e WhatsApp.
+- 🕸️ **Web Scraping & Data Mining**: Extração e análise de dados utilizando Python.
+- 📊 **Análise de Dados**: Dashboards, automações com Pandas & Excel, integração de APIs.
+- 🎨 **UX/UI Design**: Prototipação de interfaces no Figma e ferramentas gráficas.
+
+<br>
+
+## 🏆 Projetos em Destaque
+
+- [**Sistema de Controle de Atendimentos**](https://github.com/GiovanneRocha/controle-atendimentos) – WebApp para gestão de chamados internos.
+- [**Bot Discord para Gerenciamento de Grupos**](https://github.com/GiovanneRocha/discord-bot) – Automatização de tarefas e moderação.
+- [**Painel de Analytics com Python**](https://github.com/GiovanneRocha/painel-analytics) – Dashboard interativo para análise de dados.
+- [**Portfólio Pessoal**](https://giovannerocha.github.io/) – Meu site pessoal e portfólio de projetos.
+
+<br>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GiovanneRocha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=GiovanneRocha&locale=pt-br&mode=daily&theme=vision-friendly-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GiovanneRocha&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=vision-friendly-dark&hide_border=false&order=2" height="150" alt="languages graph" />
+</div>
+
+## 🐍 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiovanneRocha/GiovanneRocha/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiovanneRocha/GiovanneRocha/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GiovanneRocha/GiovanneRocha/output/pacman-contribution-graph.svg" width="100%">
+</picture>
+
+
+
 <br clear="both">
 
-## 💻 My Tech Stack</h3>
+## 💻 My Tech Stack
 
 ### Linguagens de Programação
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cs" alt="Programming Languages"/>
 </div>
 
-### Frontend Development
+### Desenvolvimento Frontend
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react" alt="Frontend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" alt="Frontend Technologies"/>
 </div>
 
-### Database & Backend
+### Backend & Banco de Dados
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="Database Technologies"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sqlite" alt="Backend and Database"/>
 </div>
 
-### Tools & Frameworks
+### DevOps & Cloud
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=electron,arduino,blender,figma,photoshop" alt="Tools and Frameworks"/>
+  <img src="https://skillicons.dev/icons?i=docker,git,githubactions" alt="DevOps Tools"/>
 </div>
 
-### Design & Project Management
+### Design & Gestão de Projetos
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop" alt="Design Tools"/>
 </div>
 
 <br clear="both">
