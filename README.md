@@ -56,17 +56,6 @@
 - 📊 **Análise de Dados**: Dashboards, automações com Pandas & Excel, integração de APIs.
 - 🎨 **UX/UI Design**: Prototipação de interfaces no Figma e ferramentas gráficas.
 
-<br>
-
-## 🏆 Projetos em Destaque
-
-- [**Sistema de Controle de Atendimentos**](https://github.com/GiovanneRocha/controle-atendimentos) – WebApp para gestão de chamados internos.
-- [**Bot Discord para Gerenciamento de Grupos**](https://github.com/GiovanneRocha/discord-bot) – Automatização de tarefas e moderação.
-- [**Painel de Analytics com Python**](https://github.com/GiovanneRocha/painel-analytics) – Dashboard interativo para análise de dados.
-- [**Portfólio Pessoal**](https://giovannerocha.github.io/) – Meu site pessoal e portfólio de projetos.
-
-<br>
-
 ## 📊 GitHub Analytics
 
 <div align="center">
