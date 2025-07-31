@@ -37,6 +37,9 @@
   <a href="https://github.com/GiovanneRocha">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://bit.ly/3YF3YSG" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
 </div>
 
 ## 🚀 Sobre Mim
@@ -84,33 +87,46 @@
 
 ### Linguagens de Programação
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cs" alt="Programming Languages"/>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript"/></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C"/></a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" alt="C#"/></a>
 </div>
 
 ### Desenvolvimento Frontend
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" alt="Frontend Technologies"/>
+  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS"/></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/></a>
 </div>
 
 ### Backend & Banco de Dados
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sqlite" alt="Backend and Database"/>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="Express"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></a>
+  <a href="https://www.sqlite.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite"/></a>
 </div>
 
 ### DevOps & Cloud
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,githubactions" alt="DevOps Tools"/>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
+  <a href="https://docs.github.com/en/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions"/></a>
 </div>
 
 ### Design & Gestão de Projetos
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
+  <a href="https://www.canva.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" /></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo" />
+  <a href="https://www.gimp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo" /></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo" />
+  <a href="https://trello.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo" /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma,photoshop" alt="Design Tools"/>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma"/></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop"/></a>
 </div>
 
 <br clear="both">
