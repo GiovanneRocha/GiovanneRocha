@@ -1,6 +1,7 @@
 <br clear="both">
+
 <h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=1823ec&vCenter=true&width=435&lines=Olá!+Eu+sou+Giovanne+Rocha;Desenvolvedor+Full+Stack;Estudante+de+TI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=1823ec&vCenter=true&width=435&lines=Olá!+Eu+sou+Giovanne+Rocha;Desenvolvedor+Full+Stack;Analista+de+Dados;Estudante+de+GTI" alt="Typing SVG" />
 </h1>
 
 <br clear="both">
@@ -64,11 +65,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiovanneRocha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=GiovanneRocha&locale=pt-br&mode=daily&theme=vision-friendly-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GiovanneRocha&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=vision-friendly-dark&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GiovanneRocha&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=vision-friendly-dark&hide_border=false&order=2" height="165" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GiovanneRocha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=pt-br&hide_border=false&order=1" height="165" alt="stats graph" />
 </div>
 
 ## 🐍 Contribution Activity
