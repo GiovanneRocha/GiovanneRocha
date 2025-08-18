@@ -43,7 +43,7 @@
   </a>
 </div>
 
-## 🚀 Sobre Mim
+## 🖥️ Sobre Mim
 
 - 🎓 **Estudante** de Gestão da Tecnologia da Informação – Fatec Campinas
 - 💼 **Estagiário de TI** na Vllares Metals (Controladoria)
