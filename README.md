@@ -85,32 +85,34 @@
 
 ### Linguagens de Programação
 <div align="left">
-  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50"rator.vercel.app/></a>
   <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript"/></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C"/></a>
   <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" alt="C#"/></a>
 </div>
 
+
 ### Desenvolvimento Frontend
-<div align="left">
+<div align="left">  
   <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML"/></a>
   <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS"/></a>
   <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React"/></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/></a>
+
 </div>
 
 ### Backend & Banco de Dados
 <div align="left">
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" /></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></a>
   <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="Express"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></a>
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite"/></a>
 </div>
 
 ### DevOps & Cloud
 <div align="left">
-  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></a>
+   <a href="https://www.docker.com/" target="_blank"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" alt="Docker" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
   <a href="https://docs.github.com/en/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions"/></a>
 </div>
