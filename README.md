@@ -86,18 +86,18 @@
 ### Linguagens de Programação
 <div align="left">
   <a href="https://www.python.org/" target="_blank"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50"rator.vercel.app/></a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript"/></a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C"/></a>
-  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" alt="C#"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width=70" height="70" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="70" height="70" /></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="70" height="65" /></a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /></a>
 </div>
 
 
 ### Desenvolvimento Frontend
 <div align="left">  
+  <a href="https://react.dev/" target="_blank"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50"/></a>
   <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML"/></a>
   <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS"/></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React"/></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/></a>
 
 </div>
