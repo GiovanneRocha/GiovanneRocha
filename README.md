@@ -1,7 +1,10 @@
-<br clear="both">
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=2ca2a2&fontAlignY=100&descAlign=62&textBg=false&reversal=true"
+/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=1823ec&vCenter=true&width=435&lines=Olá!+Eu+sou+Giovanne+Rocha;Desenvolvedor+Full+Stack;Analista+de+Dados;Estudante+de+GTI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=195f5f&vCenter=true&width=435&lines=Olá!+Eu+sou+Giovanne+Rocha;Desenvolvedor+Full+Stack;Analista+de+Dados;Estudante+de+GTI" alt="Typing SVG" />
 </h1>
 
 <br clear="both">
