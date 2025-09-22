@@ -65,7 +65,7 @@
 
 <br clear="both">
 
-## <img alt="GIF" src="midia/stats.gif" width="25px"/> GitHub Analytics
+## <img alt="GIF" src="midias/stats.gif" width="25px"/> GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GiovanneRocha&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=vision-friendly-dark&hide_border=false&order=2" height="165" alt="languages graph" />
