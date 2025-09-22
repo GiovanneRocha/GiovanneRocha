@@ -1,10 +1,10 @@
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=2ca2a2&fontAlignY=100&descAlign=62&textBg=false&reversal=true"
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0984e3&fontAlignY=100&descAlign=62&textBg=false&reversal=true"
 />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=195f5f&vCenter=true&width=435&lines=Olá!+Eu+sou+Giovanne+Rocha;Desenvolvedor+Full+Stack;Analista+de+Dados;Estudante+de+GTI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=0984e3&vCenter=true&width=435&lines=Olá!+Eu+sou+Giovanne+Rocha;Desenvolvedor+Full+Stack;Analista+de+Dados;Estudante+de+GTI" alt="Typing SVG" />
 </h1>
 
 <br clear="both">
@@ -65,7 +65,7 @@
 
 <br clear="both">
 
-## 📊 GitHub Analytics
+## <img alt="GIF" src="./midia/stats.gif" width="25px"/> GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GiovanneRocha&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=vision-friendly-dark&hide_border=false&order=2" height="165" alt="languages graph" />
@@ -134,8 +134,4 @@
 
 <br clear="both">
 
----
-
-<div align="center">
-  <h3>🖥️</h3>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0984e3&height=70&section=footer"/>
