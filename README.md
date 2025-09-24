@@ -4,7 +4,7 @@
 />
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=26&duration=3000&pause=1000&color=00B894&vCenter=true&width=435&lines=Olá!+Eu+sou+Giovanne+Rocha;Desenvolvedor+Full+Stack;Digital+Transformation+e+Automações;Estudante+de+GTI;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=26&duration=3000&pause=1000&color=00B894&vCenter=true&width=435&lines=Olá!+Eu+sou+Giovanne+Rocha;Desenvolvedor+Full+Stack;Digital+Transformation;Estudante+de+GTI;" alt="Typing SVG" />
 </h1>
 
 <br clear="both">
