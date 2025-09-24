@@ -9,11 +9,10 @@
 
 <br clear="both">
 
-  
   <p>
-    Meu nome é <strong>Giovanne Rocha Vieira</strong>, sou estudante do curso de GTI - <em>Gestão da Tecnologia da Informação</em> na Faculdade de Tecnologia de Campinas (Fatec Campinas) e atualmente atuo como <strong>Estagiário de TI na Vllares Metals</strong>, no setor de Controladoria.
+    Meu nome é <strong>Giovanne Rocha Vieira</strong>, sou estudante do curso de GTI - <em>Gestão da Tecnologia da Informação</em> na Faculdade de Tecnologia de Campinas (Fatec Campinas) e atualmente atuo como <strong>Estagiário de Digital Transformation e Automações na Área de Controladoria da Villares Metals</strong>.
   </p>
-  
+
   <p>
     Tenho profundo interesse na área de Tecnologia da Informação e estou constantemente em busca de novos conhecimentos e experiências que contribuam para minha formação pessoal, acadêmica e profissional.
   </p>
